@@ -8,9 +8,16 @@ Link to the paper:
 
 Contact: gusztav.belteki@addenbrookes.nhs.uk; gbelteki@aol.com
 
+
+____
+
+
+      
 The outputs (numbers, tables, graphs) of the IPython Notebooks have been suppressed to comply with copyrights. The corresponding data and graphs can be found in the paper.
 
 This code can be viewed in any web browser. To run it, use the Jupyter Notebook.
+
+____
 
 Packages required to run this Notebook:
 
@@ -22,6 +29,9 @@ NumPy version: 1.12.1
 SciPy version: 0.19.0
 
 I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
+
+____
+
 
 The Notebook also depends on the supplied helper files which should be in the same directory as the .ipynb notebook files
 
