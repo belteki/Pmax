@@ -1,6 +1,6 @@
 # Pmax
 
-This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: "High frequency oscillatory ventilation with volume guarantee: a single centre experience. Published in Arch Dis Child Fetal Neonatal Ed, in press" *
+This repository contains the code used for data processing, statistical analysis and visualization described in the following paper: **"Analysis of peak inflating pressure and inflating pressure limit during neonatal volume guaranteed ventilation"**
 
 Authors: Eniko Szakmar MD, Colin Morley MD, FRCPCH & Gusztav Belteki MD, PhD, FRCPCH
 
@@ -26,6 +26,9 @@ I recommend downloading these packages using the freely availably Anaconda built
 The Notebook also depends on the supplied helper files which should be in the same directory as the .ipynb notebook files
 
 gb_loader.py
+
 gb_stats.py
+
 gb_transform.py
+
 gb_visualizer.py
