@@ -15,8 +15,9 @@ Contact: gusztav.belteki@addenbrookes.nhs.uk; gbelteki@aol.com
 ____
 
 
-The outputs (numbers, tables, graphs) of the IPython Notebooks have been suppressed
-to comply with copyrights. The corresponding data and graphs can be found in the paper.
+The outputs (numbers, tables, graphs) in the Jupyter Notebooks have been suppressed
+to comply with copyrights. Some of these corresponding data and graphs can be found 
+in the paper and its only supplementary material.
 
 This code can be viewed in any web browser. To run it, use the Jupyter Notebook.
 The raw ventilator data are not shared but the user can run this code on his or her 
@@ -26,7 +27,7 @@ ____
 
 Packages required to run this Notebook:
 
-Python version: 3.5.3 | packaged by conda-forge | (default, Feb 10 2017, 07:09:50)
+Python version: 3.5.3
 
 IPython version: 5.3.0
 
@@ -38,7 +39,8 @@ NumPy version: 1.12.1
 
 SciPy version: 0.19.0
 
-I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
+I recommend downloading these packages using the freely availably Anaconda built: 
+https://www.continuum.io/downloads
 
 ____
 
