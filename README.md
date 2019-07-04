@@ -1,7 +1,5 @@
 # Pmax
 
-____
-
 
 This repository contains the Python code used for data processing, statistical analysis and
 visualization described in the following paper:
