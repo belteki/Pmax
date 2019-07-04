@@ -1,6 +1,7 @@
 # Pmax
 
-This repository contains the code used for data processing, statistical analysis and visualization described in the following paper:
+This repository contains the code used for data processing, statistical analysis and
+visualization described in the following paper:
 
 Szakmar E, Morley CJ, Belteki G. **Analysis of peak inflating pressure and
 inflating pressure limit during neonatal volume guaranteed ventilation.** _Journal
@@ -18,8 +19,8 @@ The outputs (numbers, tables, graphs) of the IPython Notebooks have been suppres
 to comply with copyrights. The corresponding data and graphs can be found in the paper.
 
 This code can be viewed in any web browser. To run it, use the Jupyter Notebook.
-Raw data are not shared but the user can run this code on his or her own data obtained
-in the same format.
+The raw ventilator data are not shared but the user can run this code on his or her 
+own data obtained in the same format. 
 
 ____
 
